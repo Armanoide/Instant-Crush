@@ -1,7 +1,7 @@
 Instant-Crush
 =============
 
-Instant Crush is an ORM sqlite for android
+Instant Crush is an easy ORM sqlite for android which implements CRUDD (create, read, update and drop method)
 
 
 <h2>Version</h2>
