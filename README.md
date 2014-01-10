@@ -4,12 +4,12 @@ Instant-Crush
 Instant Crush is an ORM sqlite for android
 
 
-<h1>Version</h1>
+<h2>Version</h2>
 -----------
 1.0
 
 
-<h1>Installation</h1>
+<h2>Installation</h2>
 -----------
 
 - Import Instant-Crush in your Eclpise
@@ -17,7 +17,7 @@ Instant Crush is an ORM sqlite for android
 - Name your Database in IConstantsDataBase.
 - 
 
-<h1>Usage</h1>
+<h2>Usage</h2>
 -----------
 
 Set all your table class in com.instantcrush.sql.object and implement the method record to have some row in your field.
