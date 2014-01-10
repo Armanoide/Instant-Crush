@@ -14,8 +14,7 @@ Instant Crush is an ORM sqlite for android
 
 - Import Instant-Crush in your Eclpise
 - Copy the package com.instantcrush.sql, com.instantcrush.sql.object, com.instantcrush.sql.record in your Adnroid project
-- Name your Database in IConstantsDataBase.
-- 
+- Name your Database in IConstantsDataBase
 
 <h2>Usage</h2>
 -----------
